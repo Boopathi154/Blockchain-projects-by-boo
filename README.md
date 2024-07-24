@@ -1,2 +1,2 @@
-Run the individual project by compiling them on https://remix.ethereum.org/
+Run the individual projects by compiling them on https://remix.ethereum.org/
 Then deploy and test them
